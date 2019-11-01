@@ -1,0 +1,5 @@
+Tournament type: DIRECT ELIMINATIONS
+Winner after Round 1 is Dragon
+Winner after Round 2 is Vampire
+Winner after Round 3 is Warlock
+Winner after Round 4 is Orc

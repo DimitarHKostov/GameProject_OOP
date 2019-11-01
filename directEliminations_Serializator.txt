@@ -1,0 +1,9 @@
+Tournament type: DIRECT ELIMINATIONS
+Winner after Round 1 is Dragon
+Winner after Round 2 is Warlock
+Winner after Round 3 is Rekcus
+Winner after Round 4 is Golem
+Winner after Round 5 is Dragon
+Winner after Round 6 is Rekcus
+Winner after Round 7 is Dragon
+Winner of the tournament is: Dragon

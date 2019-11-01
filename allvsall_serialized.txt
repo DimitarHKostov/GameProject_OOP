@@ -1,0 +1,9 @@
+Tournament type: ALL VS ALL
+Zombie has 0 points.
+Dragon has 7 points.
+Vampire has 2 points.
+Warlock has 4 points.
+Orc has 6 points.
+Mummy has 1 points.
+Golem has 5 points.
+Werewolf has 3 points.

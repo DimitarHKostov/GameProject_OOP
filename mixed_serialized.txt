@@ -1,0 +1,10 @@
+Tournament type: DIRECT ELIMINATIONS
+Winner after Round 1 is Dragon
+Winner after Round 2 is Vampire
+Winner after Round 3 is Warlock
+Winner after Round 4 is Orc
+Now the fighters fight for points!
+Dragon has 2 points.
+Vampire has 0 points.
+Warlock has 1 points.
+Orc has 2 points.
